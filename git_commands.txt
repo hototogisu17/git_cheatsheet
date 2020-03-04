@@ -9,7 +9,7 @@ git config --global alias.ci commit
 git config --global alias.br branch
 
 # editorの設定
-git config --global core.editor emacs
+git config --global core.editor vim
 
 # ファイルの変更の取り消し
 git checkout -- ファイル名 or ディレクトリ名 or .
